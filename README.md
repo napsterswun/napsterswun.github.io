@@ -1,6 +1,6 @@
 # Wellyoung Blog
 
-### [View My Blog →](https://wellyounglimited.github.io)
+### [View My Blog →](https://napsterswun.github.io)
 
 ## Document
 
